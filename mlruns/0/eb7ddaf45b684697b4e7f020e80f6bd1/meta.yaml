@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/mlflow/mlruns/0/eb7ddaf45b684697b4e7f020e80f6bd1/artifacts
+end_time: 1690558102602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb7ddaf45b684697b4e7f020e80f6bd1
+run_name: dashing-bird-867
+run_uuid: eb7ddaf45b684697b4e7f020e80f6bd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690558102586
+status: 3
+tags: []
+user_id: HP

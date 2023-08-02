@@ -41,3 +41,12 @@ mlflow ui  #use for knowing the ml tracks in server
 ```
 mlflow dvc
 ```
+
+
+# for activating the environments
+```
+conda activate <path_of_env>--(CMD)
+```
+```
+source activate ./env(bash terminal)---(git base)
+```

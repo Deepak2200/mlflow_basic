@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/mlflow/mlruns/0/70616573c1bc4d36b4b0618eae30e428/artifacts
+end_time: 1690557923192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70616573c1bc4d36b4b0618eae30e428
+run_name: capable-mouse-629
+run_uuid: 70616573c1bc4d36b4b0618eae30e428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690557923183
+status: 3
+tags: []
+user_id: HP
